@@ -22,12 +22,12 @@ Please visit this link for details: http://aws.ascio.info/whmcs.html
 - cd ascio
 - run install.php
 
-###Configuring the plugin
+### Configuring the plugin
 
 - activate the ascio plugin in the WHMCS settings and configure it
 - If you are in testmode, you need to add the testing-credentials
 
-##Ascio DNS
+## Ascio DNS
 
 - AscioDNS is added. WHMCS has only a minimal DNS-management, but there are plugins. Please contact your account-manager for an AscioDNS account.
 
